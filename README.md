@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently learning Kotlin.
 - 📫 How to reach me: paweltrelapro@gmail.com
-- 🧑‍💻 i can create a nice application for you in these technologies: Ruby on Rails, Symfony, Wordpress
+- 🧑‍💻 i can create a nice application for you in these technologies: Ruby on Rails, Spring Boot Kotlin, Wordpress
